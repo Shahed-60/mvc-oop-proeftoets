@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="http://www.mvc-oop-proeftoets.com/css/style.css">
     <title>Document</title>
 </head>
+<!--  -->
 
 <body>
     <h3><?= $data['title']; ?></h3>
