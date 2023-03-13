@@ -14,7 +14,11 @@
     <p>Mijn id is:<?= $data['id']; ?></p>
     <p>Mijn naam is:<?= $data['name']; ?></p>
     <p>Mijn haarkleur is:<?= $data['haircolor']; ?></p>
-    <a href='http://mvc-2209c.org/country/getcountries'>Landen van de werled</a>
+    <a href='http://mvc-2209c.org/country/getcountries'>Landen van de werled</a><br>
+    <a href='http://www.mvc-oop-proeftoets.com/Voetballer/index'>Top 5 best betaalde voetballers ter wereld
+    </a>
+
+
 </body>
 
 </html>
